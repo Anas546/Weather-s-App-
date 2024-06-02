@@ -1,0 +1,17 @@
+body{
+    background-image: url(./istockphoto-1498960552-612x612.jpg);
+    /* background-position: 0%; */
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 3rem;
+    background-color: aliceblue;
+    color: #15c915;
+    display: inline-block;
+    position: relative;
+    left: 22rem;
+    top: -2rem;
+    text-decoration: underline;
+}
